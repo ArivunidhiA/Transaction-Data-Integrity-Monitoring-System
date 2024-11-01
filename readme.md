@@ -1,6 +1,6 @@
 # Transaction Data Integrity Monitoring System 💳
 
-A Python-based monitoring system designed to track and analyze payment transaction data integrity, response times, and SLA compliance. This project demonstrates capabilities relevant to Mastercard's Data Integrity Monitoring Program.
+A Python-based monitoring system designed to track and analyze payment transaction data integrity, response times, and SLA compliance. This project demonstrates capabilities relevant to Data Integrity Monitoring Program.
 
 ## 🎯 Features
 
@@ -123,8 +123,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [Mastercard Transaction Processing Rules](https://www.mastercard.us/content/dam/public/mastercardcom/na/us/en/documents/transaction-processing-rules.pdf)
 - [Data Integrity Best Practices](https://developer.mastercard.com/documentation/data-integrity-best-practices)
-
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/yourusername/transaction-monitor](https://github.com/yourusername/transaction-monitor)
